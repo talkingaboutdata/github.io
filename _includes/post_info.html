@@ -1,0 +1,18 @@
+{% assign author = site.data.authors[include.author] %}
+{% assign months = "janeiro,fevereiro,março,abril,maio,junho,julho,agosto,setembro,outubro,novembro,dezembro" | split: "," %}
+{% assign month_number = include.date | date: "%-m" | minus: 1 %}
+
+<div class="post-info">
+  {%- if author.url -%}<a href="{{ author.url | relative_url }}" target="_blank">{%- endif -%}
+    {% if author.avatar  %}
+      <img src="{{ author.avatar | relative_url }}">
+    {% endif %}
+  {%- if author.url -%}</a>{%- endif -%}
+    <p class="meta">
+      {% if author.name %}{{ author.name }} - {% endif %}{{ include.date | date: "%-d" }} de {{ months[month_number] }} de {{ include.date | date: "%Y" }}
+    </p>
+</div>
+
+<p>
+{% include reading_time.html %}
+</p>

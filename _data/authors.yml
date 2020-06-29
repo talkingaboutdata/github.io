@@ -1,0 +1,20 @@
+leonaralves: # author-id
+  name: "Leonara Alves"
+  avatar: "assets/img/avatars/leonara.jpg"
+  url: "https://www.linkedin.com/in/leonaralves/"
+adrianalima:
+  name: Adriana Lima
+  avatar: "assets/img/avatars/adrianalima.jpg"
+  url: "https://www.linkedin.com/in/adriana-lima-89a11b143/"
+george:
+  name: "George Amarante"
+  avatar: "assets/img/avatars/george.jpg"
+  url: "https://www.linkedin.com/in/george-amarante-231700a9/"
+camelo:
+  name: "Matheus Camelo"
+  avatar: "assets/img/avatars/camelo.jpg"
+  url: "https://www.linkedin.com/in/matheus-camelo-873404b2/"
+unknown:
+  name: Unknown
+  avatar:
+  url:
