@@ -3,7 +3,6 @@ layout: post
 title: Como passar raiva criando um blog?
 tags: [A Tag, Test, Lorem, Ipsum]
 author: adrianalima
-comments: true
 excerpt_separator: <!--more-->
 ---
 

@@ -4,7 +4,6 @@ title: Um Post de Exemplo
 feature-img: "assets/img/pexels/lion.jpg"
 thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Estatística, Análise]
-comments: true
 author: leonaralves
 excerpt_separator: <!--more-->
 ---

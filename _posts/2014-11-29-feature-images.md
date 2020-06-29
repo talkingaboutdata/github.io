@@ -6,7 +6,6 @@ thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Test, Lorem]
 author: camelo
 excerpt_separator: <!--more-->
-comments: true
 ---
 
 Hopefully you will find enough information about how to set images in your blog here.
