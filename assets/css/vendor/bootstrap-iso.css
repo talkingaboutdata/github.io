@@ -491,7 +491,7 @@
 }
 .bootstrap-iso .pre-scrollable {
   max-height: 340px;
-  overflow-y: scroll;
+  overflow-y: hidden;
 }
 .bootstrap-iso .container {
   width: 100%;
